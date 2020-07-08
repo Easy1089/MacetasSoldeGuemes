@@ -1,0 +1,44 @@
+[{
+  "id": 1,
+  "producto": "Maceta Lechuza Negra",
+  "descripcion": "Tamaño mediano",
+  "precio": "349"
+},
+{
+  "id": 2,
+  "producto": "Maceta totem grande",
+  "descripcion": "Tamaño medianotamaño grande para dos ejemplares.",
+  "precio": "530"
+},
+{
+  "id": 3,
+  "producto": "Maceta cerdito",
+  "descripcion": "Tamaño chico",
+  "precio": "130"
+},
+{
+  "id": 4,
+  "producto": "Maceta Jardinera Mediana",
+  "descripcion": "Tamaño para dos ejemplares chicos.",
+  "precio": "540"
+},
+
+{
+  "id": 5,
+  "producto": "Fuente con casita de tejas",
+  "descripcion": "Tamaño mediano para varias suculentas.",
+  "precio": "840"
+},
+{
+  "id": 6,
+  "producto": "Maceta Lechuza",
+  "descripcion": "Tamaño mediano",
+  "precio": "140"
+},
+{
+  "id": 7,
+  "producto": "Maceta totem grande",
+  "descripcion": "tamaño grande para dos ejemplares",
+  "precio": "530"
+}
+]
