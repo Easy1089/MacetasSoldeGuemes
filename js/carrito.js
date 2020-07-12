@@ -203,10 +203,7 @@ class Carrito {
         for(let i = 0; i < productosLS.length; i++){
             let element = Number(productosLS[i].precio * productosLS[i].cantidad);
             total = total + element;
-            
         }
-        
-        
         document.getElementById('total').value = "$ " + total.toFixed(2);
     }
 
