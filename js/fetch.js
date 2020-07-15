@@ -1,7 +1,7 @@
 const tabla = document.querySelector('#lista-usuarios tbody');
 
 function cargarUsuarios(){
-    fetch('usuarios.json')
+    fetch('./usuarios.json')
         .then(respuesta => respuesta.json()) 
         .then(usuarios => {
             usuarios.forEach(usuario => {
