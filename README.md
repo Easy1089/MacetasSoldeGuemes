@@ -1,2 +1,2 @@
 #macetas sol de guemes
-Proyecto para el curso de JS de Coderhouse 2020
+Final proyecto fo JS Course from Coderhouse (2020 year) - First place Top Ten
